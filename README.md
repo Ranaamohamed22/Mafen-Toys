@@ -1,4 +1,4 @@
-## Mafen Toys Power BI Dashboard
+ ### Maven Toys - Power BI Analysis
 ## 📌 Project Overview
 This project analyzes sales, inventory, profitability, and stockout performance for a toy store using Power BI.
 
