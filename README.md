@@ -57,7 +57,7 @@ This Power BI dashboard analyzes stockout cases across different product categor
 
 # 🎥 Dashboard Demo Video
 
-[Watch Dashboard Demo](PUT_VIDEO_LINK_HERE)
+[Watch Dashboard Demo](https://drive.google.com/file/d/1t-xeDQzfPyvdbmZwZjSUuXtdguPIqiXh/view?usp=sharing)
 
 ---
 
