@@ -12,18 +12,19 @@ This Power BI dashboard analyzes stockout cases across different product categor
 ---
 
 # 📊 Dashboard Screenshots
-
+## Home
+![Home](screenshots/Home.png)
 ## Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
+
+## Product Dashboard
+![Product](screenshots/Products.png)
+
+##Sales Dashboard
+![Sales](screenshots/Sales.png)
 
 ## Stockout Insights Dashboard
-![Stockout](screenshots/stockout-insights.png)
-
-## Additional Dashboard
-![Dashboard3](screenshots/dashboard-3.png)
-
-## Additional Dashboard
-![Dashboard4](screenshots/dashboard-4.png)
+![Stockout](screenshots/stockout.png)
 
 ---
 
