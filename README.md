@@ -28,7 +28,7 @@ This Power BI dashboard analyzes stockout cases across different product categor
 
 ---
 
-# 🎯 Key Insights
+###  Key Insights
 
 - Toys category recorded the highest stockout cases
 - Downtown branch had the highest affected cases
@@ -37,7 +37,7 @@ This Power BI dashboard analyzes stockout cases across different product categor
 
 ---
 
-# 🛠 Tools & Technologies
+###  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -46,21 +46,22 @@ This Power BI dashboard analyzes stockout cases across different product categor
 - Excel
 
 ---
-
-# 📂 Files Included
-
-- Power BI Dashboard (.pbix)
-- Dashboard Screenshots
-- Project Documentation
-
----
-
-# 🎥 Dashboard Demo Video
+###  Dashboard Demo Video
 
 [Watch Dashboard Demo](https://drive.google.com/file/d/1t-xeDQzfPyvdbmZwZjSUuXtdguPIqiXh/view?usp=sharing)
 
 ---
 
-# 📥 Download PBIX File
+###  Download PBIX File
 
-[Download PBIX File](PUT_PBIX_LINK_HERE)
+[Download PBIX File](https://drive.google.com/file/d/1qBKrirZA9GG3KeYCqRxMuxQlqz3ict4v/view?usp=sharing)
+
+---
+
+###  Created By
+
+Rana Mohamed 
+Data Analyst 
+
+📌 LinkedIn: PUT_YOUR_LINKEDIN_LINK  
+📌 GitHub: PUT_YOUR_GITHUB_LINK
