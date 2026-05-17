@@ -1,4 +1,4 @@
-# 🧸 Mafen Toys Stockout Analysis Dashboard
+### 🧸 Maven Toys - Power BI Analysis
 
 ##  Project Overview
 This Power BI dashboard analyzes stockout cases across different product categories and store locations to identify:
