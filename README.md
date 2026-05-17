@@ -1,6 +1,6 @@
 # 🧸 Mafen Toys Stockout Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This Power BI dashboard analyzes stockout cases across different product categories and store locations to identify:
 
 - Lost revenue caused by stock shortages
